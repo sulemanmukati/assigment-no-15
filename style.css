@@ -1,0 +1,87 @@
+.naa{
+    background-color: rgb(18, 18, 18);
+}
+.bg-image-1{
+background-image: url(./image/image1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 700px;
+background-position: center;
+
+}
+.bg-image-2{
+    background-image: url(./image/image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-position: center;
+    
+    }
+.bg-image-3{
+   background-image: url(./image/image3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 700px;
+   background-position: center;
+   display: flex;
+   align-items: end;
+   justify-content: center;
+    }
+        
+.bg-image-4{
+    background-image: url(image/image4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+
+}
+.bg-image-5{
+    background-image: url(image/image5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+
+}
+.bg-image-6{
+    background-image: url(image/image6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+
+}
+.bg-image-7{
+    background-image: url(image/image7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+
+}
+.bg-image-8{
+    background-image: url(image/image8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+
+}
+.bg-image-9{
+    background-image: url(image/image9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+
+}
+ul{
+    list-style: none;
+}
